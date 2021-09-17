@@ -1,0 +1,13 @@
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.exe
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.deps.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.runtimeconfig.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.runtimeconfig.dev.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\bin\Debug\netcoreapp3.1\SYSEnemy.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.csproj.AssemblyReference.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.AssemblyInfoInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.AssemblyInfo.cs
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.csproj.CoreCompileInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les1\SYSEnemy\SYSEnemy\obj\Debug\netcoreapp3.1\SYSEnemy.genruntimeconfig.cache
