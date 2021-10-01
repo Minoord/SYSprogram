@@ -1,0 +1,13 @@
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.exe
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.deps.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.runtimeconfig.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.runtimeconfig.dev.json
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\bin\Debug\netcoreapp3.1\Les3.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.csproj.AssemblyReference.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.AssemblyInfoInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.AssemblyInfo.cs
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.csproj.CoreCompileInputs.cache
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.dll
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.pdb
+D:\School\MA\Bewijzenmap\leerjaar 2\Periode 1\SYSprogram\Les3\Les3\obj\Debug\netcoreapp3.1\Les3.genruntimeconfig.cache
